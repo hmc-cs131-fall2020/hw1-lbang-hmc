@@ -1,0 +1,83 @@
+--------------------------------------------------------------------------------
+List three things from the syllabus that you think will help you learn this semester
+--------------------------------------------------------------------------------
+1:
+
+
+2: 
+
+
+3:
+
+
+
+--------------------------------------------------------------------------------
+After reading the syllabus, what questions do you have?
+--------------------------------------------------------------------------------
+
+
+
+
+--------------------------------------------------------------------------------
+Yang and Rabkin response (see assignment)
+--------------------------------------------------------------------------------
+
+
+
+
+--------------------------------------------------------------------------------
+Hopper response (see assignment)
+--------------------------------------------------------------------------------
+
+
+
+
+--------------------------------------------------------------------------------
+Describe a spoken language (see assignment)
+--------------------------------------------------------------------------------
+
+Which language did you get?
+--------------------------------------------------------------------------------
+
+
+What is the character set of that language?
+--------------------------------------------------------------------------------
+
+
+
+
+--------------------------------------------------------------------------------
+Describe a programming language (see assignment)
+--------------------------------------------------------------------------------
+
+Which programming language did you get?
+--------------------------------------------------------------------------------
+
+
+What is the character set of that programming language?
+--------------------------------------------------------------------------------
+
+
+What are the keywords in that programming language?
+--------------------------------------------------------------------------------
+
+
+
+
+--------------------------------------------------------------------------------
+What does the spoken language have in common with the programming language? What is 
+different? How might that affect someone's ability to learn the programming language?
+--------------------------------------------------------------------------------
+
+
+
+
+--------------------------------------------------------------------------------
+Think back on your definition of "programming language" from class. Are HTML and
+CSS programming languages, according to your definition? Why or why not? What do you
+think Yang and Rabkin would say? Finally, what might be some consequences of TIOBE's 
+decision not to include HTML and CSS on their list of programming languages?
+--------------------------------------------------------------------------------
+
+
+
